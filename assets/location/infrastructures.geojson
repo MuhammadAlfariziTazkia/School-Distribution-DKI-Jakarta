@@ -1,0 +1,1274 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.89191120000001, -6.1997558]
+      },
+      "properties": {
+        "osm_id": "1682958727",
+        "amenity": "school",
+        "school_typ": "sd,smp",
+        "name": "TK, SD, SMP GKPI Rawamangun",
+        "addr_full": "Jalan Belanak VI No. 26 B",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.91715350000001, -6.1211131000000005]
+      },
+      "properties": {
+        "osm_id": "4248150975",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Ristek Hasanudin",
+        "addr_full": "",
+        "addr_city": "North Jakarta",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.87678240000001, -6.225609]
+      },
+      "properties": {
+        "osm_id": "4841892497",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Pelayaran Bimasakti",
+        "addr_full": "Jalan Cipinang Besar Selatan No.2",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8766992, -6.225703] },
+      "properties": {
+        "osm_id": "4842721735",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Multimedi Nusantara",
+        "addr_full": "Jalan Cipinang Besar Selatan No.2",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7824638, -6.1980056] },
+      "properties": {
+        "osm_id": "4849266606",
+        "amenity": "school",
+        "school_typ": "sd,smp,sma",
+        "name": "RA-MI-MTS Darul Ulum",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8093999, -6.152755300000001]
+      },
+      "properties": {
+        "osm_id": "4871022276",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "TK-SD Elo 1",
+        "addr_full": "Jalan Tanah Sereal XVIII Nomer 17",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.81143370000001, -6.2135186000000004]
+      },
+      "properties": {
+        "osm_id": "4954437366",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SD Bendungan Hilir",
+        "addr_full": "Jalan Bendungan Hilir No.62",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.85111490000001, -6.334808000000001]
+      },
+      "properties": {
+        "osm_id": "4965605749",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SDIT Asy-Syafi'i",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8506481, -6.2061134000000004]
+      },
+      "properties": {
+        "osm_id": "4967426224",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SDIT Harapan Ummat",
+        "addr_full": "Jalan Kesatrian X",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.92088190000001, -6.215887100000001]
+      },
+      "properties": {
+        "osm_id": "4968294662",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Farmasi IKIFA",
+        "addr_full": "Jalan Buaran II Nomor 30A RT 10/RW 13",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9394324, -6.2215287] },
+      "properties": {
+        "osm_id": "4969842479",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Malaka",
+        "addr_full": "Jalan Mawar Merah No. 23",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7062166, -6.134687700000001]
+      },
+      "properties": {
+        "osm_id": "4974594632",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "KB - TK - SD Agape Kudus",
+        "addr_full": "Jalan Taman Surya V",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70529930000001, -6.134509100000001]
+      },
+      "properties": {
+        "osm_id": "4974594633",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "KB - TK - SD Dharma Surya",
+        "addr_full": "Jalan Taman Surya V",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.80905120000001, -6.1578635]
+      },
+      "properties": {
+        "osm_id": "4981916177",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "TK - SD Syalom",
+        "addr_full": "Jalan Waspada Raya Nomer 177",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "community",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8429744, -6.152846] },
+      "properties": {
+        "osm_id": "4996688489",
+        "amenity": "school",
+        "school_typ": "sd,smp,sma",
+        "name": "Sekolah Kristen Calvin SD-SMP-SMA",
+        "addr_full": "Jalan Merpati",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8591468, -6.3267039] },
+      "properties": {
+        "osm_id": "5004414059",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "RA-MI Al-Khairiyyah MJ",
+        "addr_full": "Jalan Pondok Baru Raya",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.93849060000001, -6.233512]
+      },
+      "properties": {
+        "osm_id": "5012028184",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SLB Kembar Karya Pembangunan II",
+        "addr_full": "Jalan Bina Karya Nomor 2A",
+        "addr_city": "",
+        "operator_t": "private",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.86733290000001, -6.1200825000000005]
+      },
+      "properties": {
+        "osm_id": "5023480156",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "MI Nurul Ikhwan",
+        "addr_full": "Kp. Muara Bahari",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.89993650000001, -6.288538600000001]
+      },
+      "properties": {
+        "osm_id": "5026203676",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SD Negeri Lubang Buaya 05 Pagi",
+        "addr_full": "Jalan Yusufiyah, Kelurahan Lubang Buaya, Kecamatan Cipayung, Jakarta Timur",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "government",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.78297610000001, -6.180474200000001]
+      },
+      "properties": {
+        "osm_id": "5032149100",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SD Harapan Kasih",
+        "addr_full": "Jalan Tanjung Duren Barat V",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8849289, -6.3443858] },
+      "properties": {
+        "osm_id": "5055778323",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMA Buah Hati",
+        "addr_full": "Jalan Kelapa Dua Wetan",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.88060820000001, -6.328200000000001]
+      },
+      "properties": {
+        "osm_id": "5055779085",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Bina Nusa Mandiri",
+        "addr_full": "Jalan Raya Ciracas Nomer 1",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.73800870000001, -6.1343645]
+      },
+      "properties": {
+        "osm_id": "5057618588",
+        "amenity": "school",
+        "school_typ": "smp,sma",
+        "name": "SMP - SMA Cengkareng 1, SMK Cengkareng 2 Jakarta",
+        "addr_full": "Kawasan Rusun BCI No.2",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9617231, -6.0992505] },
+      "properties": {
+        "osm_id": "5063864231",
+        "amenity": "school",
+        "school_typ": "smp",
+        "name": "SMPN 244 Terbuka",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "government",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9616644, -6.0990595] },
+      "properties": {
+        "osm_id": "5063872672",
+        "amenity": "school",
+        "school_typ": "smp",
+        "name": "SMP 266",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "government",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.96174330000001, -6.0983334000000005]
+      },
+      "properties": {
+        "osm_id": "5063968047",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "SMK Bintang Nusantara",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.89723230000001, -6.2347218]
+      },
+      "properties": {
+        "osm_id": "5067879747",
+        "amenity": "school",
+        "school_typ": "sd, smp",
+        "name": "SD, SMP Al Humaid",
+        "addr_full": "Jalan Pahlawan Revolusi RT 01/RW 04",
+        "addr_city": "",
+        "operator_t": "private",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.78316840000001, -6.222035300000001]
+      },
+      "properties": {
+        "osm_id": "5082955316",
+        "amenity": "school",
+        "school_typ": "",
+        "name": "Heritage School",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8813283, -6.122006300000001]
+      },
+      "properties": {
+        "osm_id": "5091000147",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "MA Nurul Jalal",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.89192010000001, -6.1258717]
+      },
+      "properties": {
+        "osm_id": "5096745842",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SD Juara Jakarta Utara I",
+        "addr_full": "Jalan Swausaha Komp. Masjid Raudlatul Jannah",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9085788, -6.1753382000000006]
+      },
+      "properties": {
+        "osm_id": "5112684167",
+        "amenity": "school",
+        "school_typ": "sd",
+        "name": "SD Islam Terpadu Al - Mu'min",
+        "addr_full": "Jalan Bangun Cipta Raya No. A.16 Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.770876, -6.1168147] },
+      "properties": {
+        "osm_id": "5114462449",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "Montessori Gading Permata School",
+        "addr_full": "Jalan Pantai Indah Utara II",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8298759, -6.1349004] },
+      "properties": {
+        "osm_id": "5142535869",
+        "amenity": "school",
+        "school_typ": "sd, smp, sma",
+        "name": "PKBM Dorkas",
+        "addr_full": "Jalan Mangga Dua Raya Blok D No. 2 Komplek RUKO Grand Boutique",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.95824710000001, -6.118064400000001]
+      },
+      "properties": {
+        "osm_id": "5143004499",
+        "amenity": "school",
+        "school_typ": "sma",
+        "name": "Sekolah Menengah Kejuruan Dradjat (SKMD)",
+        "addr_full": "Jalan Marunda Tiram No. 28, RT 02 RW 02 Marunda Jakarta Utara",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8173314, -6.3116282] },
+      "properties": {
+        "osm_id": "5160469522",
+        "amenity": "school",
+        "school_typ": "",
+        "name": "Yayasan Ayah Bunda Cintaku",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7748375, -6.1150368] },
+      "properties": {
+        "osm_id": "5174025558",
+        "amenity": "school",
+        "school_typ": "",
+        "name": "Penabur 6",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.76286080000001, -6.2359572000000005]
+      },
+      "properties": {
+        "osm_id": "5203372722",
+        "amenity": "school",
+        "school_typ": "",
+        "name": "",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8767026, -6.2255377] },
+      "properties": {
+        "osm_id": "4842721737",
+        "amenity": "college",
+        "name": "Akademik Manajemen Informasi dan Komunikasi",
+        "addr_full": "Jalan Cipinang Besar Selatan No.2",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8630019, -6.2085461] },
+      "properties": {
+        "osm_id": "4857308698",
+        "amenity": "college",
+        "name": "STMIK Muhammadiyah",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.81708870000001, -6.205070500000001]
+      },
+      "properties": {
+        "osm_id": "4867479032",
+        "amenity": "college",
+        "name": "London School Public Relations",
+        "addr_full": "Jalan H. Abdul Jalil",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8198514, -6.209897300000001]
+      },
+      "properties": {
+        "osm_id": "4867479036",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Pariwisata Sahid",
+        "addr_full": "Jalan Jendral Sudirman No.86",
+        "addr_city": "",
+        "operator_t": "private",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7975083, -6.1855981] },
+      "properties": {
+        "osm_id": "4877554299",
+        "amenity": "college",
+        "name": "Fakultas Kedokteran Harapan Kita",
+        "addr_full": "Jalan Letjen S. Parman",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8638452, -6.2597263000000005]
+      },
+      "properties": {
+        "osm_id": "4914380348",
+        "amenity": "college",
+        "name": "STIE PBM",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70341640000001, -6.15319]
+      },
+      "properties": {
+        "osm_id": "4916416978",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Ilmu Ekonomi Bhakti Prasetya Karya Praja",
+        "addr_full": "Jalan Peta Selatan No.10D",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9398075, -6.2246069] },
+      "properties": {
+        "osm_id": "4963491496",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Ilmu Tarbiyah INSIDA",
+        "addr_full": "Jalan Malaka Hijau Nomor 45",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6954237, -6.129348200000001]
+      },
+      "properties": {
+        "osm_id": "4967774128",
+        "amenity": "college",
+        "name": "Institut Fajrul Islam",
+        "addr_full": "Jalan Tanjung Pura II",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.94651510000001, -6.2255897000000004]
+      },
+      "properties": {
+        "osm_id": "4969702968",
+        "amenity": "college",
+        "name": "Perguruan Tinggi Islam Al Halimiyah",
+        "addr_full": "Jalan Robusta Raya Nomor 31",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8292868, -6.146165900000001]
+      },
+      "properties": {
+        "osm_id": "4994320035",
+        "amenity": "college",
+        "name": "Akademi Keperawatan RS Husada",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.84234930000001, -6.1620192000000005]
+      },
+      "properties": {
+        "osm_id": "4996688488",
+        "amenity": "college",
+        "name": "STIE",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.80530680000001, -6.2414803]
+      },
+      "properties": {
+        "osm_id": "5044261097",
+        "amenity": "college",
+        "name": "STKIP Purnama",
+        "addr_full": "Jalan Tirtayasa V",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.88557770000001, -6.2750756]
+      },
+      "properties": {
+        "osm_id": "5046478242",
+        "amenity": "college",
+        "name": "Sekolah Pendidikan Angkatan Udara",
+        "addr_full": "Jl. Squadron, Halim Perdanakusuma",
+        "addr_city": "",
+        "operator_t": "government",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8842831, -6.126065700000001]
+      },
+      "properties": {
+        "osm_id": "5055205167",
+        "amenity": "college",
+        "name": "STKIP Panca Sakti",
+        "addr_full": "Jalan Budi Jaya",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7332506, -6.1393174] },
+      "properties": {
+        "osm_id": "5057618604",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Teologi Pokok Anggur",
+        "addr_full": "Jalan Boulevard Raya",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8836904, -6.1170574] },
+      "properties": {
+        "osm_id": "5083267794",
+        "amenity": "college",
+        "name": "STKIP Kusuma Negara",
+        "addr_full": "Jalan Gadang No 83-85",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8912933, -6.1213831] },
+      "properties": {
+        "osm_id": "5096745789",
+        "amenity": "college",
+        "name": "STIE Wiyatamandala",
+        "addr_full": "Jalan Swasembada Timur XIII",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.91519020000001, -6.1386286000000005]
+      },
+      "properties": {
+        "osm_id": "5112684148",
+        "amenity": "college",
+        "name": "Akademi Pariwisata Bhakti Nusantara",
+        "addr_full": "Jalan Raya Pegangsaan Dua KM. 5 Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara 14250",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.96443291574661, -6.094178788442167]
+      },
+      "properties": {
+        "osm_id": "",
+        "amenity": "clinic",
+        "name": "Puskesmas Rusun Marunda",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8767026, -6.2255377] },
+      "properties": {
+        "osm_id": "4842721737",
+        "amenity": "college",
+        "name": "Akademik Manajemen Informasi dan Komunikasi",
+        "addr_full": "Jalan Cipinang Besar Selatan No.2",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8630019, -6.2085461] },
+      "properties": {
+        "osm_id": "4857308698",
+        "amenity": "college",
+        "name": "STMIK Muhammadiyah",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.81708870000001, -6.205070500000001]
+      },
+      "properties": {
+        "osm_id": "4867479032",
+        "amenity": "college",
+        "name": "London School Public Relations",
+        "addr_full": "Jalan H. Abdul Jalil",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8198514, -6.209897300000001]
+      },
+      "properties": {
+        "osm_id": "4867479036",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Pariwisata Sahid",
+        "addr_full": "Jalan Jendral Sudirman No.86",
+        "addr_city": "",
+        "operator_t": "private",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7975083, -6.1855981] },
+      "properties": {
+        "osm_id": "4877554299",
+        "amenity": "college",
+        "name": "Fakultas Kedokteran Harapan Kita",
+        "addr_full": "Jalan Letjen S. Parman",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8638452, -6.2597263000000005]
+      },
+      "properties": {
+        "osm_id": "4914380348",
+        "amenity": "college",
+        "name": "STIE PBM",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.70341640000001, -6.15319]
+      },
+      "properties": {
+        "osm_id": "4916416978",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Ilmu Ekonomi Bhakti Prasetya Karya Praja",
+        "addr_full": "Jalan Peta Selatan No.10D",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.9398075, -6.2246069] },
+      "properties": {
+        "osm_id": "4963491496",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Ilmu Tarbiyah INSIDA",
+        "addr_full": "Jalan Malaka Hijau Nomor 45",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6954237, -6.129348200000001]
+      },
+      "properties": {
+        "osm_id": "4967774128",
+        "amenity": "college",
+        "name": "Institut Fajrul Islam",
+        "addr_full": "Jalan Tanjung Pura II",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.94651510000001, -6.2255897000000004]
+      },
+      "properties": {
+        "osm_id": "4969702968",
+        "amenity": "college",
+        "name": "Perguruan Tinggi Islam Al Halimiyah",
+        "addr_full": "Jalan Robusta Raya Nomor 31",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8292868, -6.146165900000001]
+      },
+      "properties": {
+        "osm_id": "4994320035",
+        "amenity": "college",
+        "name": "Akademi Keperawatan RS Husada",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.84234930000001, -6.1620192000000005]
+      },
+      "properties": {
+        "osm_id": "4996688488",
+        "amenity": "college",
+        "name": "STIE",
+        "addr_full": "",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.80530680000001, -6.2414803]
+      },
+      "properties": {
+        "osm_id": "5044261097",
+        "amenity": "college",
+        "name": "STKIP Purnama",
+        "addr_full": "Jalan Tirtayasa V",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.88557770000001, -6.2750756]
+      },
+      "properties": {
+        "osm_id": "5046478242",
+        "amenity": "college",
+        "name": "Sekolah Pendidikan Angkatan Udara",
+        "addr_full": "Jl. Squadron, Halim Perdanakusuma",
+        "addr_city": "",
+        "operator_t": "government",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8842831, -6.126065700000001]
+      },
+      "properties": {
+        "osm_id": "5055205167",
+        "amenity": "college",
+        "name": "STKIP Panca Sakti",
+        "addr_full": "Jalan Budi Jaya",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.7332506, -6.1393174] },
+      "properties": {
+        "osm_id": "5057618604",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Teologi Pokok Anggur",
+        "addr_full": "Jalan Boulevard Raya",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8836904, -6.1170574] },
+      "properties": {
+        "osm_id": "5083267794",
+        "amenity": "college",
+        "name": "STKIP Kusuma Negara",
+        "addr_full": "Jalan Gadang No 83-85",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8912933, -6.1213831] },
+      "properties": {
+        "osm_id": "5096745789",
+        "amenity": "college",
+        "name": "STIE Wiyatamandala",
+        "addr_full": "Jalan Swasembada Timur XIII",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.91519020000001, -6.1386286000000005]
+      },
+      "properties": {
+        "osm_id": "5112684148",
+        "amenity": "college",
+        "name": "Akademi Pariwisata Bhakti Nusantara",
+        "addr_full": "Jalan Raya Pegangsaan Dua KM. 5 Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara 14250",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.96443291574661, -6.094178788442167]
+      },
+      "properties": {
+        "osm_id": "",
+        "amenity": "clinic",
+        "name": "Puskesmas Rusun Marunda",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.87730590000001, -6.178953600000001]
+      },
+      "properties": {
+        "osm_id": "4152444161",
+        "amenity": "university",
+        "name": "Kalbis Institute",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.87848880000001, -6.1791793]
+      },
+      "properties": {
+        "osm_id": "4243842960",
+        "amenity": "university",
+        "name": "Indonesia International Institute for Life-Sciences",
+        "addr_full": "",
+        "addr_city": "",
+        "operator_t": "",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [106.8196221, -6.2099066] },
+      "properties": {
+        "osm_id": "4867479035",
+        "amenity": "university",
+        "name": "Sekolah Pasca Sarjana USAHID",
+        "addr_full": "Jalan Jendral Sudirman No.86",
+        "addr_city": "",
+        "operator_t": "private",
+        "source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8922699, -6.199136200000001]
+      },
+      "properties": {
+        "osm_id": "4883015190",
+        "amenity": "university",
+        "name": "Institut Agama Islam Al-Ghurabaa",
+        "addr_full": "Jalan Tenggiri No.47",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.79163740000001, -6.177561600000001]
+      },
+      "properties": {
+        "osm_id": "5033660303",
+        "amenity": "university",
+        "name": "Podomoro University",
+        "addr_full": "Jalan Letjen S Parman",
+        "addr_city": "DKI Jakarta",
+        "operator_t": "private",
+        "source": "HOT_InAWARESurvey_2017"
+      }
+    }
+  ]
+}
