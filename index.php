@@ -9,6 +9,7 @@ function getNameAndCoord()
   foreach ($parsedJson->features as $object) {
     array_push($objects, (object)[
       'name' => $object->properties->name,
+      'address' => $object->properties->addr_full,
       'coord' => $object->geometry->coordinates,
       'distance' => countDistance(-6.204603054574429, 106.95149547229757, $object->geometry->coordinates[1], $object->geometry->coordinates[0], $object->properties->name)
     ]);
@@ -93,6 +94,7 @@ function countDistance($myPosLat, $myPosLang, $desPosLat, $desPosLang, $name)
                 <h5><b>
                     <?php echo $obj->name; ?>
                   </b></h3>
+                  <p><?= $obj->address ?></p>
                   <h6><?php echo "Latitude  : " . $obj->coord[1]; ?></h6>
                   <h6><?php echo "Longitude  : " . $obj->coord[0]; ?></h6>
                   <button class="btn btn-primary" onclick="return getRoute(<?= $obj->coord[1] ?>, <?= $obj->coord[0] ?>)">Show Directions</button> 
